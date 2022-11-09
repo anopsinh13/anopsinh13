@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anopsinh Rathore
+- 👋 Hi, I’m @anopsinh Rathore from India Gujrat, Mundra
 - 👀 I’m interested in software programing
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on new thing, i have ideas to create software, have concept for related to any kind of software i.e. purchase, export, import, transport, shipping etc
